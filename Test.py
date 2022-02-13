@@ -1,2 +1,1 @@
-"Version 16"
-"Branch"
+print("BLYAT")
